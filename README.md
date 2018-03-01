@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Caffe
 
 [![Build Status](https://travis-ci.org/BVLC/caffe.svg?branch=master)](https://travis-ci.org/BVLC/caffe)
@@ -35,3 +36,7 @@ Please cite Caffe in your publications if it helps your research:
       Title = {Caffe: Convolutional Architecture for Fast Feature Embedding},
       Year = {2014}
     }
+=======
+# caffe_cuda9_cudnn7_titanv
+This is a working version of caffe using cuda9 and cudnn7 on my workstation
+>>>>>>> e9e104eca2a893ef135f5bd1a61a7e7036dbb5d7
